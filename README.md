@@ -209,7 +209,7 @@ dubbo:
 
 ```
 
-#### 服务提供者和服务消费者的启动类上增加@EnableDubbo注解
+#### 服务提供者和服务消费者的启动类上增加@EnableDubbo注解 来启用dubbo服务
 
 ```java
 package com.provider;
