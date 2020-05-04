@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date 2018/10/25
  */
 @SpringBootApplication
-@EnableDubbo(scanBasePackages = "com.consumer")
+@EnableDubbo
 public class ConsumerApplication implements CommandLineRunner {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
