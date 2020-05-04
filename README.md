@@ -88,7 +88,7 @@
     </build>
 </project>
 ```
-==千万不要自作聪明的在引入zookeeper的开发包了==
+### ==千万不要自作聪明的在引入zookeeper的开发包了==
 
 ### 子工程中引入dubbo_api模块
 
